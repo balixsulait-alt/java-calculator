@@ -37,7 +37,7 @@ public class Calculator {
                 System.out.println("Error! Invalid operator.");
                 return;
         }
-        
+        //printing result
         System.out.println("The result is: " + result);
     }
 }
