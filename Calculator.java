@@ -14,7 +14,7 @@ public class Calculator {
         double num2 = scanner.nextDouble();
         
         double result;
-        
+       //switch statement 
         switch (operator) {
             case '+':
                 result = num1 + num2;
