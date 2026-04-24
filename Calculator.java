@@ -39,5 +39,6 @@ public class Calculator {
         }
         //printing result
         System.out.println("The result is: " + result);
+    scanner.close();
     }
 }
