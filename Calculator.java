@@ -39,6 +39,7 @@ public class Calculator {
         }
         //printing result
         System.out.println("The result is: " + result);
+//close input
     scanner.close();
     }
 }
