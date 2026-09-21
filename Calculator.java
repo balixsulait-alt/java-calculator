@@ -11,6 +11,7 @@ public class Calculator {
         char operator = scanner.next().charAt(0);
         
         System.out.println("Enter second number:");
+
         double num2 = scanner.nextDouble();
         
         double result;
